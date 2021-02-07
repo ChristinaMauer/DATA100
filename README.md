@@ -1,5 +1,6 @@
 # data 100 repository
-intro, image
+intro, 
+![picture](...)
 
 ## Informal Responces
 [challenge](...)
