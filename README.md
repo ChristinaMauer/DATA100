@@ -6,4 +6,4 @@ Hello, I'm Christina Mauer. I am originally from Cape Town, South Africa, but I'
 I plan on majoring in Computer Science.
 
 ## Informal Responces
-[challenge](...)
+[challenge](https://github.com/ChristinaMauer/data100/blob/main/Plot.PNG)
