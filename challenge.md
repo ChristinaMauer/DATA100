@@ -1,2 +1,2 @@
 # The Seven Stop Plot
-![picture](https://github.com/ChristinaMauer/data100/blob/main/Plot.PNG)
+![picture](https://christinamauer.github.io/data100/Plot.PNG)
