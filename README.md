@@ -7,3 +7,7 @@ I plan on majoring in Computer Science.
 
 ## Informal Responces
 [challenge](https://christinamauer.github.io/data100/challenge)
+
+
+## Informal Responses
+[first](https://christinamauer.github.io/data100/first_response)
