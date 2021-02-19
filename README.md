@@ -5,9 +5,9 @@
 Hello, I'm Christina Mauer. I am originally from Cape Town, South Africa, but I've been living in NOVA for the past two years. I like to write and play video games.
 I plan on majoring in Computer Science.
 
-## Informal Responces
+## Informal Projects
 [challenge](https://christinamauer.github.io/data100/challenge)
 
 
-## Informal Responses
+## Informal Responces
 [first](https://christinamauer.github.io/data100/first_response)
