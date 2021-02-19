@@ -13,4 +13,8 @@ benefits. Additionally, if data is only collected through items the the poor are
 results.
 
 There are ways to mitigate the risks. Comparing the digital from phones to survey data is not only a good way to ensure accuracy, but also to refine the method used in gathering 
-phone data. 
+phone data. Developing an algorithm that takes local context into account before making decisions would help. If data gathering technology was implemented in areas that could 
+otherwise not afford it, the groups living there would be less underrepresented.
+
+I agree that good intent is not enough. The largest data gatherers are private companies, where profit is the main concern. The data could end up on the wrong place. Improving
+transparency would lessen the opportunities for bad intent. 
