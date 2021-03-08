@@ -9,8 +9,10 @@ I plan on majoring in Computer Science.
 [challenge](https://christinamauer.github.io/data100/challenge)
 
 
-## Informal Responces
+## Informal Responses
 [first](https://christinamauer.github.io/data100/first_response)
 
 ## Formal Projects
 [project1](https://christinamauer.github.io/data100/project1)
+
+[project2](https://christinamauer.github.io/data100/project2)
