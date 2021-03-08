@@ -11,6 +11,7 @@ I plan on majoring in Computer Science.
 
 ## Informal Responses
 [first](https://christinamauer.github.io/data100/first_response)
+
 [second](https://christinamauer.github.io/data100/second_response)
 
 ## Formal Projects
