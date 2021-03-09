@@ -8,3 +8,6 @@ Based on factual information found in Big Data, social sciences scholars could d
 decreases. Models can be produced with greater depth, scale and breadth, better than what we have today. It's also possible to test theories across many situations and places. 
 With more knowledge and insight into human life, it will become easier to identify and face the issues humankind have.
 
+Big Data enhances the amount of data available for humanities research. The analysis methods used in science isn't viable when it comes to the humanities, because it removes the 
+research from its context and only sees data. Humans are a lot more complicated. Their behaviour can not easily be determined by logically analysing data. As such, a mix of Big 
+Data and "old" techniques can pave the way for data science and the humanities.
