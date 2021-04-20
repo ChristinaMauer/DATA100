@@ -46,7 +46,7 @@
 
 ### Mean of Population Difference (again, but in 3D)
 
-![irl_mean_diff_3d](https://christinamauer.github.io/data100/irl_sum_mean_3d.png)
+![irl_mean_diff_3d](https://christinamauer.github.io/data100/irl_mean_diff_3d.png)
 
 
 ## Part 3: Log Population
