@@ -14,4 +14,4 @@
 
 ## Dublin Map
 
-![dub_map(https://christinamauer.github.io/data100/dub_map.PNG)
+![dub_map](https://christinamauer.github.io/data100/dub_map.PNG)
