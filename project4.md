@@ -10,7 +10,7 @@
 
 ## 3D Difference
 
-![dub](https://christinamauer.github.io/data100/dub)
+![dub](https://christinamauer.github.io/data100/dub.png)
 
 ## Dublin Map
 
