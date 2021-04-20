@@ -17,6 +17,8 @@
 ![dub_map](https://christinamauer.github.io/data100/dub_map.PNG)
 
 
+
+
 # Individual Deliverable
 
 ## Part 1: Sums
