@@ -62,3 +62,11 @@
 ### Log of Population Difference (again, but in 3D)
 
 ![irl_log_diff_3d](https://christinamauer.github.io/data100/irl_log_diff_3d.png)
+
+
+
+
+
+
+
+I now owe my roommate a box of chocolates for suggesting I try adm1 instead.
