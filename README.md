@@ -28,3 +28,5 @@ I plan on majoring in Computer Science.
 [project3](https://christinamauer.github.io/data100/project3)
 
 [project4](https://christinamauer.github.io/data100/project4)
+
+[project5](https://christinamauer.github.io/data100/project5)
