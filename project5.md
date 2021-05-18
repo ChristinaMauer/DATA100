@@ -8,3 +8,8 @@
 ## Accessibility 2:
 
 ![Access2](https://christinamauer.github.io/data100/Access2.png)
+
+
+## Accessibility 3:
+
+![Access3](https://christinamauer.github.io/data100/Access3.png)
